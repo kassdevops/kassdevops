@@ -21,9 +21,7 @@
 
 ---
 ### Certifications:
-<div>
-<a href="https://www.credly.com/users/kayky-silveira/badges#credly" target="_blank"><img align="center" alt="Credly" height="60" width="80" src="./.assets/credly-svgrepo-com.svg" />
-<div></a>
+[![Credly](./.assets/credly-svgrepo-com.svg)](https://www.credly.com/users/kayky-silveira/badges#credly)
 
 ---
 ### Technologies & Tools:
@@ -43,10 +41,8 @@ Currently working as a DevOps/SRE in staging environments, using Cloud Native te
 
 ---
 **Aditional Information**
-<div>
- <a href="https://www.linkedin.com/in/kassdev/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
- <a href="https://www.youtube.com/@kassdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
-<div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kassdev/?locale=en_US)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kassdev)
 
 ---
 - 🌍 Living in Brazil
