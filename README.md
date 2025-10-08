@@ -3,6 +3,7 @@
 ## DevOps Engineer
 <div>
  <a href="https://beacons.ai/kassdevops">
+ <a href="http://www.github.com/kassdevops"><img height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=kassdevops&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="victornico15's GitHub stats" /></a>
  <img height="180em" width="370" src="https://github-readme-stats.vercel.app/api?username=kassdevops&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
  <img height="180em" width="370" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassdevops&layout=compact&langs_count=16&theme=dark"/>
  </a>
