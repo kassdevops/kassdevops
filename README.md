@@ -32,7 +32,7 @@
 - **Infrastructure as Code:** Terraform
 - **Monitoring/Observability:** New Relic
 - **Messaging Systems:**
-- **Containerization & Orchestration:** Docker
+- **Containerization & Orchestration:** Docker, Kubernetes
 - **Programming/Scripting:** Python, Go, Bash
 - **CI/CD & Version Control:** GitHub Actions, CircleCI, Git
 - **Auxiliary Tools:** Vim
