@@ -42,11 +42,3 @@ Currently working as a DevOps/SRE in staging environments, using Cloud Native te
 <div> 
  <a href="https://www.linkedin.com/in/kassdev/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   <a href="https://www.youtube.com/@kassdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a> 
 <div></a> 
-
----
-- 🌍 Living in Brazil
-- Open to collaborating
-- Always learning and improving
-- Let’s connect, share knowledge, or just talk about tech
-
-> “Understand, automate, share.”
