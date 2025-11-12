@@ -1,10 +1,7 @@
 # 👋 Hi. My name is Kayky Silveira.
 
 ## DevOps Engineer
-<div>
- <a href="https://beacons.ai/kassdevops">
- </a>
-<div>
+Hi, I'm a DevOps Engineer. I started my career early, at the age of 18. Below, you can take a look at my portfolio and skills. Feel free to reach out to me at any time.
 
 <div>
  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
