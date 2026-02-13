@@ -35,7 +35,7 @@ Currently working as a DevOps/SRE. Focused on delivering reliable, observable, a
 - **Frameworks/Methodologies:** GitOps, SDLC, Scrum, Kanban, ITIL4
 ---
 
-**Aditional Information**
+**Further Information**
 <div> 
  <a href="https://www.linkedin.com/in/kassdev/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   <a href="https://www.youtube.com/@kassdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a> 
 <div></a> 
