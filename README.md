@@ -1,7 +1,7 @@
 # 👋 Hi. My name is Kayky Silveira.
 
 ## DevOps Engineer
-Hi, I'm a DevOps Engineer. I started my career early, at the age of 18. Below, you can take a look at my portfolio and skills. Feel free to reach out to me at any time.
+Currently working as a DevOps/SRE. Focused on delivering reliable, observable, and scalable infrastructure.
 
 <div>
  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -26,18 +26,15 @@ Hi, I'm a DevOps Engineer. I started my career early, at the age of 18. Below, y
 
 - **Cloud Platforms:** AWS
 - **Infrastructure as Code:** Terraform
-- **Monitoring/Observability:** New Relic
+- **Monitoring/Observability:** Prometheus, New Relic, Datadog
 - **Messaging Systems:**
 - **Containerization & Orchestration:** Docker, Kubernetes
 - **Programming/Scripting:** Python, Go, Bash
-- **CI/CD & Version Control:** GitHub Actions, CircleCI, Git
+- **CI/CD & Version Control:** GitHub Actions, GitLab, CircleCI
 - **Auxiliary Tools:** Vim
-- **Framework:** GitOps, SDLC, Scrum, Kanban
+- **Frameworks/Methodologies:** GitOps, SDLC, Scrum, Kanban, ITIL4
 ---
-### Experience:
-Currently working as a DevOps/SRE in staging environments, using Cloud Native technologies and automating everything I can. Focused on delivering reliable, observable, and scalable infrastructure.
 
----
 **Aditional Information**
 <div> 
  <a href="https://www.linkedin.com/in/kassdev/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   <a href="https://www.youtube.com/@kassdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a> 
