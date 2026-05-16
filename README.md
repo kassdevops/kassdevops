@@ -18,7 +18,7 @@ Currently working as a DevOps/SRE. Focused on delivering reliable, observable, a
 ---
 ### Certifications:
 <div> 
- <a href="https://www.credly.com/users/kayky-silveira/badges#credly" target="_blank"><img align="center" alt="Credly" height="60" width="80" src="./.assets/credly-svgrepo-com.svg" /> 
+ <a href="https://www.credly.com/users/kassops" target="_blank"><img align="center" alt="Credly" height="60" width="80" src="./.assets/credly-svgrepo-com.svg" /> 
 <div></a>
  
 ---
@@ -37,5 +37,5 @@ Currently working as a DevOps/SRE. Focused on delivering reliable, observable, a
 
 **Further Information**
 <div> 
- <a href="https://www.linkedin.com/in/kassdev/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   <a href="https://www.youtube.com/@kassdev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a> 
+ <a href="https://www.linkedin.com/in/kassops" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>   <a href="https://www.youtube.com/@kassops" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a> 
 <div></a> 
