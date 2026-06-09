@@ -1,4 +1,4 @@
-# 👋 Hi. My name is Kayky Silveira Silva.
+# Kayky Silveira Silva
 
 ## DevOps/SRE
 DevOps/SRE focused on building resilient, observable, and scalable platforms that enable exceptional application performance and customer experience.
