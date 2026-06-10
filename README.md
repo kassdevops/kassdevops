@@ -18,8 +18,8 @@ DevOps/SRE focused on building resilient, observable, and scalable platforms tha
  
 Building resilient platforms and scalable systems.
 
+☸️ Container Orchestration
 ☁️ Cloud & On-prem  
-☸️ Kubernetes & Platform Engineering  
 📈 Observability & Reliability  
 🐧 Linux & Automation  
 
